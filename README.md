@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-My name **Raidhi Mustafid**, and I am currently still studying in Pertamina University majoring in Computer Science.
-Right now, what i've been doing lately is attending one of Dicoding Academy program called "SIB Kampus Merdeka X Dicoding Batch 3."
-
-I really love learning new stuff especially in web development and I hope I will keep doing it in the future.
+A recent graduate from Pertamina University with a fervent enthusiasm for both learning and imparting knowledge, particularly in the realms of web programming and cybersecurity. Eager to embark on a journey of exploration and contribute meaningfully to these dynamic fields.
 
 
 <p align="left">
