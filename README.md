@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A recent graduate from Pertamina University with a fervent enthusiasm for both learning and imparting knowledge, particularly in the realms of web programming and cybersecurity. Eager to embark on a journey of exploration and contribute meaningfully to these dynamic fields. Currently work
+A recent graduate from Pertamina University with a fervent enthusiasm for both learning and imparting knowledge, particularly in the realms of web programming and cybersecurity. Eager to embark on a journey of exploration and contribute meaningfully to these dynamic fields.
 
 
 <p align="center">
